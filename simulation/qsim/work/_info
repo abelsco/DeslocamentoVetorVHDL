@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Downloads\DESLOC VETOR\simulation\qsim
+vCODE6C
+Z1 !s100 6mP<nZSk@g3VD73mmb;SN0
+Z2 I2A4jKH8[XKVgGgGoDZGK03
+Z3 Vn8FWMfSnAQZgeOd5V^[J61
+Z4 dC:\Users\aluno\Downloads\DESLOC VETOR\simulation\qsim
+Z5 w1524678386
+Z6 8CODE6C.vo
+Z7 FCODE6C.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|CODE6C.vo|
+Z10 o-work work -O0
+Z11 n@c@o@d@e6@c
+!i10b 1
+!s85 0
+Z12 !s108 1524678387.753000
+Z13 !s107 CODE6C.vo|
+!s101 -O0
+vCODE6C_vlg_check_tst
+!i10b 1
+Z14 !s100 nRJ?83f:^;B8_G0?:>SYL3
+Z15 I^VJ;7=`7g<R;]Z14fEB=g2
+Z16 VjY:iWGifUlHYH1h:F2_Ji1
+R4
+Z17 w1524678385
+Z18 8CODE6C.vt
+Z19 FCODE6C.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z20 !s108 1524678387.960000
+Z21 !s107 CODE6C.vt|
+Z22 !s90 -work|work|CODE6C.vt|
+!s101 -O0
+R10
+Z23 n@c@o@d@e6@c_vlg_check_tst
+vCODE6C_vlg_sample_tst
+!i10b 1
+Z24 !s100 GMXXLhUQ;a?CbmSngmg^`0
+Z25 IL30W8maX^3Ga1J>Z>A1P`0
+Z26 VJ<Uz@zKLz^0`XDaGld5C_2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@c@o@d@e6@c_vlg_sample_tst
+vCODE6C_vlg_vec_tst
+!i10b 1
+!s100 beE@[jQ3c=NH@7E=F@m`j3
+IfnYDQMFSh5=@oFNzc0Ra41
+Z28 VWMO@SE7Ie6>kl`l^gQbM01
+R4
+R17
+R18
+R19
+Z29 L0 351
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@c@o@d@e6@c_vlg_vec_tst
